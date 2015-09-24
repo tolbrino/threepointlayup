@@ -1,4 +1,4 @@
-baseurl = "https://www.threepointlayup.com/"
+baseurl = "http://www.threepointlayup.com/"
 languageCode = "en-US"
 title = "Three Point Layup"
 theme = "simple-a"
