@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Random on Three Point Layup </title>
+    <link>http://www.threepointlayup.com/tags/random/</link>
+    <language>en-us</language>
+    <author>Tino Breddin</author>
+    <updated>2015-09-24 09:46:03 &#43;0200 &#43;0200</updated>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://www.threepointlayup.com/posts/hello-world/</link>
+      <pubDate>Thu, 24 Sep 2015 09:46:03 &#43;0200</pubDate>
+      <author>Tino Breddin</author>
+      <guid>http://www.threepointlayup.com/posts/hello-world/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;All things truly wicked start from innocence.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Ernest Hemingway&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
